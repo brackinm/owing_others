@@ -1,0 +1,634 @@
+"cons","ID","atten","id.check","perspective","cost.benefit","study","gratitude","vignette","indebtedness","guilt","anger","shame","repayment"
+"1","5d195d9278167300018d465b","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","high","low","high"
+"1","615f041799fc0330751d8387","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615eff4bd1f04d90c8568d4d","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615e4b74077042431f6d0175","I  am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615f1444c19cb3c7f9c0b9b9","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615efbfb2e528433c069152f","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615e3c460390ce006190107f","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615de781caf7c6f671b23a28","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615dd6977fdcfcbd8b31605c","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","615b2f781853f82d5ea88d01","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","high","high","high","low"
+"1","61111bf46a43049204a81a86","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"high","high","low","low","high"
+"1","615dec0b1bff80279d078e56","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","high","low","low","high"
+"1","615de6dd9ffc5caa6b1e495a","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615e0ad278e94fccdb7cbc78","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"high","low","low","high","low"
+"1","615e23d347d8f8c81044eded","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615c025882bbfde788b33d3a","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","5f04ae7dcfd81676183df261","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615d89868ec19111d29a452c","I am paying attention.",TRUE,"borrower","benefit","1a","high",1,"high","high","high","high","high"
+"1","614e250f278d1d4634b7b5f3","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","615ca9bcbf3cd9e2a958faec","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","6159d4bf7db3fb8f54936a77","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","6156039b746a885c920e2fdc","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","5f71e2ac3a1d4d06e2fcde1d","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","615de34edf7b7c37eb200a56","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","615433f5dbb2b162894aafa7","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","5bea65135b7ff700013c946c","I am paying attention. ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","5f42167916548e3e557a1e6a","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","610853d28e5d541b53efbf5b","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","60ffcac5d8ed4fa1edd778df","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","615dea6b6dd38b4c0f86e515","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","614f96dbd2ffada13bf93f18","I am paying attention. ",TRUE,"borrower","benefit","1a","high",1,"high","low","high","low","low"
+"1","615deb85c655c2768d2b5caa","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","615cc7c9fe9f26fa64250891","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","6143ac81c32261c6b083b8c0","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"high","high","high","high","high"
+"1","5ff4df13509c7e47228fb5c5","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","610478b6910dc79b161011e6","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","60fdf79ca1d455153d18ffd7","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","612fef5222ba874467d224e8","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","6159fd3862202c42e38d41a3","i am paying attention",TRUE,"borrower","benefit","1a","low",1,"low","high","low","low","high"
+"1","60ff6673abdb3e7cbdfafe10","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","high","low"
+"1","60fd87aa4f2472bc8efe5fe8","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","6137c53fa86b56b2e542eb8f","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","615dd334b324617181a39821","I am paying attention ",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","6103048806b2d36783e17f8d","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","615a1d9297d4e05d6df9da22","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","614f530d5d0eee9f24bc39c9","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","high"
+"1","6159a616a32bcead963f629c","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615cb384ce89087ee23d6a9b","""I am paying attention""",TRUE,"borrower","benefit","1a","high",1,"low","low","low","low","low"
+"1","61573708afa1a92ab2ec943b","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","615dd9f8ac6e876e2a870281","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","6154f7ecb57d7917914a58ec","i am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","562297c0ed6e5a0011c805d2","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","low"
+"1","61095ad583e96c3096df5b0b","I am paying attention",TRUE,"borrower","benefit","1a","high",1,"high","low","low","low","high"
+"1","5d195d9278167300018d465b","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","high","low","high"
+"1","615f041799fc0330751d8387","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","high","low","high","high"
+"1","615eff4bd1f04d90c8568d4d","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615e4b74077042431f6d0175","I  am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615f1444c19cb3c7f9c0b9b9","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615efbfb2e528433c069152f","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615e3c460390ce006190107f","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615de781caf7c6f671b23a28","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615dd6977fdcfcbd8b31605c","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615b2f781853f82d5ea88d01","I am paying attention",TRUE,"borrower","benefit","1a","low",2,"high","high","high","high","high"
+"1","61111bf46a43049204a81a86","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","high","low","high","high"
+"1","615dec0b1bff80279d078e56","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","615de6dd9ffc5caa6b1e495a","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","high","low","low","low"
+"1","615e0ad278e94fccdb7cbc78","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","615e23d347d8f8c81044eded","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615c025882bbfde788b33d3a","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","5f04ae7dcfd81676183df261","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615d89868ec19111d29a452c","I am paying attention.",TRUE,"borrower","benefit","1a","high",2,"high","high","high","high","high"
+"1","614e250f278d1d4634b7b5f3","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","615ca9bcbf3cd9e2a958faec","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","6159d4bf7db3fb8f54936a77","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","6156039b746a885c920e2fdc","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","5f71e2ac3a1d4d06e2fcde1d","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","615de34edf7b7c37eb200a56","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","615433f5dbb2b162894aafa7","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","5bea65135b7ff700013c946c","I am paying attention. ",TRUE,"borrower","benefit","1a","high",2,"low","low","high","low","high"
+"1","5f42167916548e3e557a1e6a","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","610853d28e5d541b53efbf5b","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","60ffcac5d8ed4fa1edd778df","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","615dea6b6dd38b4c0f86e515","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","614f96dbd2ffada13bf93f18","I am paying attention. ",TRUE,"borrower","benefit","1a","high",2,"high","low","high","low","low"
+"1","615deb85c655c2768d2b5caa","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","615cc7c9fe9f26fa64250891","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","6143ac81c32261c6b083b8c0","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","5ff4df13509c7e47228fb5c5","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"low","low","low","high","high"
+"1","610478b6910dc79b161011e6","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","60fdf79ca1d455153d18ffd7","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","612fef5222ba874467d224e8","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","6159fd3862202c42e38d41a3","i am paying attention",TRUE,"borrower","benefit","1a","low",2,"high","low","high","high","low"
+"1","60ff6673abdb3e7cbdfafe10","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","high","low","high","high"
+"1","60fd87aa4f2472bc8efe5fe8","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","6137c53fa86b56b2e542eb8f","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","615dd334b324617181a39821","I am paying attention ",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","6103048806b2d36783e17f8d","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","615a1d9297d4e05d6df9da22","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","high","low","high"
+"1","614f530d5d0eee9f24bc39c9","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","high"
+"1","6159a616a32bcead963f629c","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615cb384ce89087ee23d6a9b","""I am paying attention""",TRUE,"borrower","benefit","1a","high",2,"low","low","low","low","low"
+"1","61573708afa1a92ab2ec943b","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","615dd9f8ac6e876e2a870281","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","6154f7ecb57d7917914a58ec","i am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","562297c0ed6e5a0011c805d2","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","low"
+"1","61095ad583e96c3096df5b0b","I am paying attention",TRUE,"borrower","benefit","1a","high",2,"high","low","low","low","high"
+"1","5d195d9278167300018d465b","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","615f041799fc0330751d8387","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615eff4bd1f04d90c8568d4d","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615e4b74077042431f6d0175","I  am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615f1444c19cb3c7f9c0b9b9","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615efbfb2e528433c069152f","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615e3c460390ce006190107f","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615de781caf7c6f671b23a28","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","615dd6977fdcfcbd8b31605c","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615b2f781853f82d5ea88d01","I am paying attention",TRUE,"borrower","benefit","1a","low",3,"high","high","high","low","high"
+"1","61111bf46a43049204a81a86","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","high","low","low","high"
+"1","615dec0b1bff80279d078e56","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615de6dd9ffc5caa6b1e495a","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","615e0ad278e94fccdb7cbc78","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","615e23d347d8f8c81044eded","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615c025882bbfde788b33d3a","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","5f04ae7dcfd81676183df261","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615d89868ec19111d29a452c","I am paying attention.",TRUE,"borrower","benefit","1a","high",3,"high","high","low","high","high"
+"1","614e250f278d1d4634b7b5f3","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","615ca9bcbf3cd9e2a958faec","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","6159d4bf7db3fb8f54936a77","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","6156039b746a885c920e2fdc","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","5f71e2ac3a1d4d06e2fcde1d","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","615de34edf7b7c37eb200a56","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615433f5dbb2b162894aafa7","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","5bea65135b7ff700013c946c","I am paying attention. ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","5f42167916548e3e557a1e6a","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","610853d28e5d541b53efbf5b","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","60ffcac5d8ed4fa1edd778df","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","high","low"
+"1","615dea6b6dd38b4c0f86e515","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","614f96dbd2ffada13bf93f18","I am paying attention. ",TRUE,"borrower","benefit","1a","high",3,"high","low","high","low","low"
+"1","615deb85c655c2768d2b5caa","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","615cc7c9fe9f26fa64250891","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","6143ac81c32261c6b083b8c0","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","5ff4df13509c7e47228fb5c5","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","low"
+"1","610478b6910dc79b161011e6","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","60fdf79ca1d455153d18ffd7","I am paying attention",TRUE,"borrower","benefit","1a","low",3,"low","low","low","low","low"
+"1","612fef5222ba874467d224e8","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","high","low","high"
+"1","6159fd3862202c42e38d41a3","i am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","high","high","high","low"
+"1","60ff6673abdb3e7cbdfafe10","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","high","high"
+"1","60fd87aa4f2472bc8efe5fe8","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","6137c53fa86b56b2e542eb8f","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","615dd334b324617181a39821","I am paying attention ",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","6103048806b2d36783e17f8d","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","615a1d9297d4e05d6df9da22","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","high","low","high"
+"1","614f530d5d0eee9f24bc39c9","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","high"
+"1","6159a616a32bcead963f629c","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615cb384ce89087ee23d6a9b","""I am paying attention""",TRUE,"borrower","benefit","1a","high",3,"low","low","low","low","low"
+"1","61573708afa1a92ab2ec943b","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615dd9f8ac6e876e2a870281","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","6154f7ecb57d7917914a58ec","i am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","high","low","low","high"
+"1","562297c0ed6e5a0011c805d2","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","61095ad583e96c3096df5b0b","I am paying attention",TRUE,"borrower","benefit","1a","high",3,"high","low","low","low","high"
+"1","615f15b1b04f23d573c0eccd","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","614f4c3fdf37c59dc02c14d4","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","low","high","high"
+"1","614e139a6f00652cd6a438dd","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","low","high"
+"1","615ef1360c01f4fbc2e617fa","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","613bbfd1b6e105344c054cde","I am paying attention",TRUE,"borrower","cost","1b","low",1,"low","low","high","low","high"
+"1","610830c01b7f39828cad4d98","I am paying attention ",TRUE,"borrower","cost","1b","low",1,"low","high","high","high","high"
+"1","615bd1addfd4a453ee62475d","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","61588e459646a0a015bc8169","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","low"
+"1","60ff0a628e7abb5c88254568","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","615b2ec8aa4707ea7652c447","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615dd67f28512bd31c13819d","i am paying attention",TRUE,"borrower","cost","1b","low",1,"low","low","low","low","high"
+"1","5dd3f234929d5d3d3573abd2","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","614ee347a57616853a7b1356","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615df7327251ca49e2637035","i am paying attention",TRUE,"borrower","cost","1b","low",1,"high","low","high","high","high"
+"1","614f7d207762bc2060a321cf","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","61400542635c88b08561234d","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","low","high","high"
+"1","6112956c61f5f21c41b55750","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615dd63b44f0f97de5f4acdb","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615e5b5f1e8fbfe2c701bc8e","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","60fedb02fb05a0a3c8246060","I am paying attention",TRUE,"borrower","cost","1b","high",1,"low","high","high","low","high"
+"1","5cae7592664fb00016021b1a","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615366914bfb3d9509710cba","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","61006f0f72814867b12d666c","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","low","high","high"
+"1","615dcb204ee13e6299a50595","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","low","high","high","high"
+"1","6108b1fa43120fa89f0c20dd","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615e77969a57a2eecbbec86f","i am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","6159deda1ab70efc7d45084b","I am paying attention",TRUE,"borrower","cost","1b","low",1,"low","low","high","high","high"
+"1","60fe2901cd9b6b9ee71849ee","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615bb35e52d50aa9a2ae6747","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","614b30b7d19c5b30c7a40ada","'I am paying attention' in the box below. I really dislike this game.”  ",TRUE,"borrower","cost","1b","high",1,"high","low","low","low","high"
+"1","60fdd2fb27c97c0276503333","I am paying attention",TRUE,"borrower","cost","1b","low",1,"low","low","low","low","low"
+"1","6108454f0f1590114b9d85c9","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","615e46f07323728a95784eb8","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615242ccb1faf59319464c76","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","61183c3a79f85e305bb02939","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","601a168d1e53291fc8613d9b","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","6155d14afd03ebfe3f9c7303","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","615c5d5d1768e12bba80f289","I am paying attention ",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615b07ac5e7010276c05933e","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","low","high","high","low"
+"1","610f516a9175e24875033edc","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","low"
+"1","6127baa96d6d9ff7c8e771e1","I am paying attention ",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","613ad38ddac971490a0e70ee","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","614fb741f4857c6b3b67cbd0","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","60ff4c6536890252c799b3f9","i am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","614f2aa9c2f0916e03c590c4","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","6101ce08984d1d369a154d0c","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","586d9260d6df700001874515","i am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","6159f68fffed83e436478237","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","60fde826f540335d49a32bc2","I am paying attention",TRUE,"borrower","cost","1b","low",1,"low","high","high","high","high"
+"1","615bbcccf3eb034b954a90dd","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","high","high"
+"1","615d051e2366aeb051acb734","I am paying attention",TRUE,"borrower","cost","1b","high",1,"high","high","high","high","high"
+"1","615de87b6d2b7a636b0feb6f","I am paying attention",TRUE,"borrower","cost","1b","low",1,"high","high","high","low","high"
+"1","613487d7981022306752e578","I am paying attention",TRUE,"borrower","cost","1b","low",1,"low","high","low","low","low"
+"1","615f15b1b04f23d573c0eccd","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","614f4c3fdf37c59dc02c14d4","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","low","high","high"
+"1","614e139a6f00652cd6a438dd","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"low","low","high","low","low"
+"1","615ef1360c01f4fbc2e617fa","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","613bbfd1b6e105344c054cde","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","610830c01b7f39828cad4d98","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","615bd1addfd4a453ee62475d","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","61588e459646a0a015bc8169","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","60ff0a628e7abb5c88254568","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","615b2ec8aa4707ea7652c447","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615dd67f28512bd31c13819d","i am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","5dd3f234929d5d3d3573abd2","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","614ee347a57616853a7b1356","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615df7327251ca49e2637035","i am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","614f7d207762bc2060a321cf","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","high","low","high","high"
+"1","61400542635c88b08561234d","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","6112956c61f5f21c41b55750","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615dd63b44f0f97de5f4acdb","I am paying attention ",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615e5b5f1e8fbfe2c701bc8e","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","60fedb02fb05a0a3c8246060","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","5cae7592664fb00016021b1a","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","low","high","low","high"
+"1","615366914bfb3d9509710cba","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","61006f0f72814867b12d666c","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","low","high","high"
+"1","615dcb204ee13e6299a50595","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","low","high","high","high"
+"1","6108b1fa43120fa89f0c20dd","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615e77969a57a2eecbbec86f","i am paying attention",TRUE,"borrower","cost","1b","high",2,"low","high","high","high","high"
+"1","6159deda1ab70efc7d45084b","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","high","high","high","low"
+"1","60fe2901cd9b6b9ee71849ee","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615bb35e52d50aa9a2ae6747","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","614b30b7d19c5b30c7a40ada","'I am paying attention' in the box below. I really dislike this game.”  ",TRUE,"borrower","cost","1b","high",2,"high","low","low","low","high"
+"1","60fdd2fb27c97c0276503333","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","low","low","low","high"
+"1","6108454f0f1590114b9d85c9","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","615e46f07323728a95784eb8","I am paying attention ",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615242ccb1faf59319464c76","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","61183c3a79f85e305bb02939","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","601a168d1e53291fc8613d9b","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","6155d14afd03ebfe3f9c7303","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","high","high","high","high"
+"1","615c5d5d1768e12bba80f289","I am paying attention ",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615b07ac5e7010276c05933e","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","low","high","high","low"
+"1","610f516a9175e24875033edc","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","6127baa96d6d9ff7c8e771e1","I am paying attention ",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","613ad38ddac971490a0e70ee","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","614fb741f4857c6b3b67cbd0","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","60ff4c6536890252c799b3f9","i am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","614f2aa9c2f0916e03c590c4","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","6101ce08984d1d369a154d0c","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","586d9260d6df700001874515","i am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","6159f68fffed83e436478237","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","60fde826f540335d49a32bc2","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","high","high","high","high"
+"1","615bbcccf3eb034b954a90dd","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","high","high","high"
+"1","615d051e2366aeb051acb734","I am paying attention",TRUE,"borrower","cost","1b","high",2,"high","high","high","high","high"
+"1","615de87b6d2b7a636b0feb6f","I am paying attention",TRUE,"borrower","cost","1b","low",2,"high","high","low","low","high"
+"1","613487d7981022306752e578","I am paying attention",TRUE,"borrower","cost","1b","low",2,"low","low","low","low","low"
+"1","615f15b1b04f23d573c0eccd","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","614f4c3fdf37c59dc02c14d4","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","low","high","high"
+"1","614e139a6f00652cd6a438dd","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","low","high"
+"1","615ef1360c01f4fbc2e617fa","I am paying attention ",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","613bbfd1b6e105344c054cde","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","610830c01b7f39828cad4d98","I am paying attention ",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","615bd1addfd4a453ee62475d","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","61588e459646a0a015bc8169","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","60ff0a628e7abb5c88254568","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","615b2ec8aa4707ea7652c447","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615dd67f28512bd31c13819d","i am paying attention",TRUE,"borrower","cost","1b","low",3,"low","low","low","low","high"
+"1","5dd3f234929d5d3d3573abd2","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","614ee347a57616853a7b1356","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615df7327251ca49e2637035","i am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","614f7d207762bc2060a321cf","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","61400542635c88b08561234d","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","low","high","high"
+"1","6112956c61f5f21c41b55750","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615dd63b44f0f97de5f4acdb","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615e5b5f1e8fbfe2c701bc8e","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","60fedb02fb05a0a3c8246060","I am paying attention",TRUE,"borrower","cost","1b","high",3,"low","high","high","high","high"
+"1","5cae7592664fb00016021b1a","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","low","high","low","high"
+"1","615366914bfb3d9509710cba","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","61006f0f72814867b12d666c","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","low","high","high"
+"1","615dcb204ee13e6299a50595","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","6108b1fa43120fa89f0c20dd","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615e77969a57a2eecbbec86f","i am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","6159deda1ab70efc7d45084b","I am paying attention",TRUE,"borrower","cost","1b","low",3,"low","high","high","low","low"
+"1","60fe2901cd9b6b9ee71849ee","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615bb35e52d50aa9a2ae6747","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","614b30b7d19c5b30c7a40ada","'I am paying attention' in the box below. I really dislike this game.”  ",TRUE,"borrower","cost","1b","high",3,"high","low","low","low","high"
+"1","60fdd2fb27c97c0276503333","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","low","low","low","high"
+"1","6108454f0f1590114b9d85c9","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","615e46f07323728a95784eb8","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615242ccb1faf59319464c76","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","61183c3a79f85e305bb02939","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","601a168d1e53291fc8613d9b","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","6155d14afd03ebfe3f9c7303","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","615c5d5d1768e12bba80f289","I am paying attention ",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615b07ac5e7010276c05933e","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","610f516a9175e24875033edc","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","low","high","high"
+"1","6127baa96d6d9ff7c8e771e1","I am paying attention ",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","613ad38ddac971490a0e70ee","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","614fb741f4857c6b3b67cbd0","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","60ff4c6536890252c799b3f9","i am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","614f2aa9c2f0916e03c590c4","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","6101ce08984d1d369a154d0c","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","586d9260d6df700001874515","i am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","6159f68fffed83e436478237","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","60fde826f540335d49a32bc2","I am paying attention",TRUE,"borrower","cost","1b","low",3,"low","high","high","high","high"
+"1","615bbcccf3eb034b954a90dd","I am paying attention",TRUE,"borrower","cost","1b","low",3,"high","high","high","high","high"
+"1","615d051e2366aeb051acb734","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","615de87b6d2b7a636b0feb6f","I am paying attention",TRUE,"borrower","cost","1b","high",3,"high","high","high","high","high"
+"1","613487d7981022306752e578","I am paying attention",TRUE,"borrower","cost","1b","high",3,"low","low","high","high","high"
+"1","5e63ff5a2c147618329cd3ae","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","615dd79ed16dba94e3f7b2ef","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615d51833f7e46e46a17f98a","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","low",NA
+"1","615ef0224e63a157d4e7d327","I am paying attention",TRUE,"lender","benefit","1a","low",1,"high","low","low","low",NA
+"1","615dca74a55835267198e040","In the box below",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","615e4af388d645c0e125bfce","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615c777509f34c8977bc45a7","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","615e3fbc99197e64058e46bb","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","high",NA
+"1","61585be9a9a3151fa46e9433","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","6100709326b47e8dd29476ed","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","614dfb979bc997145833524e","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615dc9deaf652df9361baa3a","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","615de560f69760ef469d7f00","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","615dc4eea07adccfee50cff2","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615dc21e4069250c0a5db511","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","high","low","low",NA
+"1","614f3ad3e0837475bb79d175","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","60ff05a47ab140b373c58f80","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","5eb0520f4e4f4e0e2b844aef","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","6150dc85a6c7f21722406a1c","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615dd185252ddcb73b937f19","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","614f36d8201b65aeaccd16fa","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615cc1ae57d01b89b641b9e8","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","60ff82f49fbecec33107d890","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","60fced127f84b2707cb0422b","i am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","6117e4ebcb47c9190fd23caf","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","6158b83a28262e8bb4e342ad","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","60fd01189b7b8168e807d304","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","5d63055e9b22da000117b019","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615e2a936846f4ac509e6088","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","5a68f15b31b87a0001c75c00","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","60fe25767ba2eb5a6baa1424","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","5f483854b7e5b32f393d9156","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","603e5b7d52f770000b46bfb7","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","high","high",NA
+"1","615853bb684991448f617f74","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","5c70a9cee514010001b40087","I am paying attention",TRUE,"lender","benefit","1a","low",1,"low","low","low","low",NA
+"1","6143194a035e9035ae36d89e","I am paying attention ",TRUE,"lender","benefit","1a","low",1,"low","low","low","low",NA
+"1","6107ec55e8d7b33f176124d8","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615df59eabff221770a2f292","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","615cff90b003cff3ff72bd6a","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","615cfc2c22044e5e9c5c62f3","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","low",NA
+"1","6109ed543124b9fec9950852","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","615a370454c064791efb67e9","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","low",NA
+"1","614e87c3aa830889a26f6c51","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","615e31634396387d2cbd26d7","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","high",NA
+"1","615df92f6440c5ce31497087","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","61086131ea762a474691d8ea","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","615dae6a954a95f9f5f00f68","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","high","low",NA
+"1","60fc45f20e9662b6cdaa86b4","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","614b400652cf733e6b040e05","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","high","high","high",NA
+"1","614fca30a4c39958a3deaa2c","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","61528924f735386161ed7953","I am paying attention ",TRUE,"lender","benefit","1a","high",1,"high","high","low","high",NA
+"1","6100327b2da9bb1243d7be69","I am paying attention",TRUE,"lender","benefit","1a","high",1,"high","low","low","low",NA
+"1","60ff46c24b327206aae611f5","I am paying attention",TRUE,"lender","benefit","1a","high",1,"low","low","low","low",NA
+"1","5e63ff5a2c147618329cd3ae","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","high",NA
+"1","615dd79ed16dba94e3f7b2ef","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615d51833f7e46e46a17f98a","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","615ef0224e63a157d4e7d327","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615dca74a55835267198e040","In the box below",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615e4af388d645c0e125bfce","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615c777509f34c8977bc45a7","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","615e3fbc99197e64058e46bb","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","high",NA
+"1","61585be9a9a3151fa46e9433","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","high",NA
+"1","6100709326b47e8dd29476ed","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","614dfb979bc997145833524e","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615dc9deaf652df9361baa3a","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615de560f69760ef469d7f00","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","high","high","high",NA
+"1","615dc4eea07adccfee50cff2","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615dc21e4069250c0a5db511","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","614f3ad3e0837475bb79d175","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","60ff05a47ab140b373c58f80","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","5eb0520f4e4f4e0e2b844aef","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","6150dc85a6c7f21722406a1c","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615dd185252ddcb73b937f19","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","614f36d8201b65aeaccd16fa","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615cc1ae57d01b89b641b9e8","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","60ff82f49fbecec33107d890","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","60fced127f84b2707cb0422b","i am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","6117e4ebcb47c9190fd23caf","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","high",NA
+"1","6158b83a28262e8bb4e342ad","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","60fd01189b7b8168e807d304","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","5d63055e9b22da000117b019","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","615e2a936846f4ac509e6088","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","5a68f15b31b87a0001c75c00","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","60fe25767ba2eb5a6baa1424","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","5f483854b7e5b32f393d9156","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","603e5b7d52f770000b46bfb7","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","high","high",NA
+"1","615853bb684991448f617f74","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","5c70a9cee514010001b40087","I am paying attention",TRUE,"lender","benefit","1a","low",2,"low","low","low","high",NA
+"1","6143194a035e9035ae36d89e","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","high","high","high",NA
+"1","6107ec55e8d7b33f176124d8","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615df59eabff221770a2f292","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","615cff90b003cff3ff72bd6a","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","high",NA
+"1","615cfc2c22044e5e9c5c62f3","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","high","low","low",NA
+"1","6109ed543124b9fec9950852","I am paying attention",TRUE,"lender","benefit","1a","low",2,"low","low","low","low",NA
+"1","615a370454c064791efb67e9","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","high","low","low",NA
+"1","614e87c3aa830889a26f6c51","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","615e31634396387d2cbd26d7","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"low","low","low","high",NA
+"1","615df92f6440c5ce31497087","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","61086131ea762a474691d8ea","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","615dae6a954a95f9f5f00f68","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","high","high",NA
+"1","60fc45f20e9662b6cdaa86b4","I am paying attention",TRUE,"lender","benefit","1a","high",2,"low","low","low","low",NA
+"1","614b400652cf733e6b040e05","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","high","high",NA
+"1","614fca30a4c39958a3deaa2c","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","61528924f735386161ed7953","I am paying attention ",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","6100327b2da9bb1243d7be69","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","low","low","low",NA
+"1","60ff46c24b327206aae611f5","I am paying attention",TRUE,"lender","benefit","1a","high",2,"high","high","low","high",NA
+"1","5e63ff5a2c147618329cd3ae","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615dd79ed16dba94e3f7b2ef","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615d51833f7e46e46a17f98a","I am paying attention",TRUE,"lender","benefit","1a","low",3,"low","high","low","high",NA
+"1","615ef0224e63a157d4e7d327","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615dca74a55835267198e040","In the box below",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615e4af388d645c0e125bfce","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615c777509f34c8977bc45a7","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","low",NA
+"1","615e3fbc99197e64058e46bb","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","high","low","low",NA
+"1","61585be9a9a3151fa46e9433","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","6100709326b47e8dd29476ed","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","614dfb979bc997145833524e","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615dc9deaf652df9361baa3a","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615de560f69760ef469d7f00","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615dc4eea07adccfee50cff2","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615dc21e4069250c0a5db511","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","high","low","low",NA
+"1","614f3ad3e0837475bb79d175","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","60ff05a47ab140b373c58f80","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","5eb0520f4e4f4e0e2b844aef","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","6150dc85a6c7f21722406a1c","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615dd185252ddcb73b937f19","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","614f36d8201b65aeaccd16fa","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615cc1ae57d01b89b641b9e8","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","60ff82f49fbecec33107d890","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","60fced127f84b2707cb0422b","i am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","6117e4ebcb47c9190fd23caf","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","6158b83a28262e8bb4e342ad","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","60fd01189b7b8168e807d304","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","5d63055e9b22da000117b019","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615e2a936846f4ac509e6088","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","5a68f15b31b87a0001c75c00","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","60fe25767ba2eb5a6baa1424","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","5f483854b7e5b32f393d9156","I am paying attention",TRUE,"lender","benefit","1a","low",3,"low","low","low","low",NA
+"1","603e5b7d52f770000b46bfb7","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","high","high",NA
+"1","615853bb684991448f617f74","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","5c70a9cee514010001b40087","I am paying attention",TRUE,"lender","benefit","1a","low",3,"low","low","low","low",NA
+"1","6143194a035e9035ae36d89e","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","high","high","high",NA
+"1","6107ec55e8d7b33f176124d8","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","615df59eabff221770a2f292","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","615cff90b003cff3ff72bd6a","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615cfc2c22044e5e9c5c62f3","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","low",NA
+"1","6109ed543124b9fec9950852","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615a370454c064791efb67e9","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","low",NA
+"1","614e87c3aa830889a26f6c51","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","615e31634396387d2cbd26d7","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","high",NA
+"1","615df92f6440c5ce31497087","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","61086131ea762a474691d8ea","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","615dae6a954a95f9f5f00f68","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","60fc45f20e9662b6cdaa86b4","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","614b400652cf733e6b040e05","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","high","high","high",NA
+"1","614fca30a4c39958a3deaa2c","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","61528924f735386161ed7953","I am paying attention ",TRUE,"lender","benefit","1a","high",3,"high","high","low","high",NA
+"1","6100327b2da9bb1243d7be69","I am paying attention",TRUE,"lender","benefit","1a","high",3,"high","low","low","high",NA
+"1","60ff46c24b327206aae611f5","I am paying attention",TRUE,"lender","benefit","1a","high",3,"low","low","low","low",NA
+"1","5c3395d5861b5e00014e5a6b","I am paying attention ",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","6155b9c45f96867d9d9631fd","I am paying attention'",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","5e7ad79b4a5c600c89af2462","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","low","high",NA
+"1","615ddfac4254098aac0104f6","I am paying attention",TRUE,"lender","cost","1b","high",1,"low","low","high","high",NA
+"1","5e16a7c34b49a1c91ef46af6","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615dd00c1d45a039604c8f65","I am paying attention ",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","615a0987c9051ab9211feaad","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","5f492192df390441adca14c6","I am paying attention ",TRUE,"lender","cost","1b","high",1,"low","high","high","high",NA
+"1","5f4158913bd5ca2e871d63f4","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","6150644c34ae04340c40ea7d","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","6158591c0aface73c971cd2b","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","60fd899739d76fd49477b9a4","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","614f7fa72284cc56c37bd6ed","I am paying attention ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615eacec371e248c8cff26e3","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615d2f8eec57c5ed67cae1a7","I am paying attention ",TRUE,"lender","cost","1b","low",1,"low","low","low","low",NA
+"1","59b7fd3862b30d0001b7a9a5","I am paying attention ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615de27d2e7bba0828023d8d","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","60fe4903e5256605511c0df8","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","615dd734ba73139e525309ad","I am paying attention ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615ef3a85979138892bca4e1","I am paying attention ",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","615cee2b2f844e72c397977a","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","low",NA
+"1","5743c964eb8ed0000ff798ac","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","low","high",NA
+"1","615e4fef92092a8206551387","i am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","low",NA
+"1","5d52d9233d8e6b001b0dcd7f","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","615b27f7153b4a17b1fd9648","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","615c3e3b6d2de4da70ff983d","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","5bcdce524f22df00010f79a8","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","low",NA
+"1","615efab192266b3e6edad353","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","614b631a8b5f1d167d747568","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","615ab8652a828a8debc1b58d","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","low","low",NA
+"1","614de92b998a00bbe3126e46","I am paying attention.  I really dislike this game.",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","615bf47f05e9e86a267e301e","I am paying attention.",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","6150e2b2d893e3c90a04e0b0","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","low","high",NA
+"1","60204dc20bebf462370504bf","I am paying attention",TRUE,"lender","cost","1b","high",1,"low","low","high","low",NA
+"1","614b80cc52c625de51b20d95","i am paying attention i really dislike this game ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","61504a4fd671a4c0db39082c","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","6137724edc94f735d39eba25","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615e0226ccc01ffb91906936","I am paying attention. ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","610955bd4df5e68b4db4a586","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","614e6b246b462c71255a31b4","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","615dfbb483f8480303655714","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","6108ac76f73dfaf3c27db5b9","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","5be879272b86b00001b9d0e2","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","5e3afc013b12f0000a165d64","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","61419de45327bd23057bb5a6","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","60fc558e4bdd9f7e1193b310","I am paying attention ",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","61570cce3eb8aee57ef5d98d","I am paying attention",TRUE,"lender","cost","1b","low",1,"low","high","high","low",NA
+"1","6104bd4aacdd3af5be15c4d4","I am paying attention",TRUE,"lender","cost","1b","low",1,"low","high","low","high",NA
+"1","6154f629ea84ccf09ac10f39","I am paying attention ",TRUE,"lender","cost","1b","low",1,"high","high","low","high",NA
+"1","615e6b0e313a51491f30b1d2","I am paying attention",TRUE,"lender","cost","1b","high",1,"high","high","high","high",NA
+"1","6110cd3c8ac90be83cdcc6b4","I am paying attention ",TRUE,"lender","cost","1b","low",1,"high","high","high","high",NA
+"1","6159d59f2a349739f51417ad","I am paying attention",TRUE,"lender","cost","1b","low",1,"high","high","high","low",NA
+"1","5c3395d5861b5e00014e5a6b","I am paying attention ",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","6155b9c45f96867d9d9631fd","I am paying attention'",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","5e7ad79b4a5c600c89af2462","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","low","high",NA
+"1","615ddfac4254098aac0104f6","I am paying attention",TRUE,"lender","cost","1b","low",2,"low","high","low","high",NA
+"1","5e16a7c34b49a1c91ef46af6","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615dd00c1d45a039604c8f65","I am paying attention ",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615a0987c9051ab9211feaad","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","5f492192df390441adca14c6","I am paying attention ",TRUE,"lender","cost","1b","high",2,"low","high","high","high",NA
+"1","5f4158913bd5ca2e871d63f4","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","6150644c34ae04340c40ea7d","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","6158591c0aface73c971cd2b","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","60fd899739d76fd49477b9a4","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","low","low","high",NA
+"1","614f7fa72284cc56c37bd6ed","I am paying attention ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615eacec371e248c8cff26e3","I am paying attention",TRUE,"lender","cost","1b","high",2,"low","low","low","low",NA
+"1","615d2f8eec57c5ed67cae1a7","I am paying attention ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","59b7fd3862b30d0001b7a9a5","I am paying attention ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615de27d2e7bba0828023d8d","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","60fe4903e5256605511c0df8","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615dd734ba73139e525309ad","I am paying attention ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615ef3a85979138892bca4e1","I am paying attention ",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615cee2b2f844e72c397977a","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","low","low",NA
+"1","5743c964eb8ed0000ff798ac","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","low","low","low",NA
+"1","615e4fef92092a8206551387","i am paying attention",TRUE,"lender","cost","1b","low",2,"low","low","high","high",NA
+"1","5d52d9233d8e6b001b0dcd7f","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615b27f7153b4a17b1fd9648","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","low","low","high",NA
+"1","615c3e3b6d2de4da70ff983d","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","low","high","low",NA
+"1","5bcdce524f22df00010f79a8","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615efab192266b3e6edad353","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","614b631a8b5f1d167d747568","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615ab8652a828a8debc1b58d","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","614de92b998a00bbe3126e46","I am paying attention.  I really dislike this game.",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615bf47f05e9e86a267e301e","I am paying attention.",TRUE,"lender","cost","1b","low",2,"high","high","high","low",NA
+"1","6150e2b2d893e3c90a04e0b0","I am paying attention",TRUE,"lender","cost","1b","high",2,"low","high","low","low",NA
+"1","60204dc20bebf462370504bf","I am paying attention",TRUE,"lender","cost","1b","high",2,"low","high","low","low",NA
+"1","614b80cc52c625de51b20d95","i am paying attention i really dislike this game ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","61504a4fd671a4c0db39082c","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","6137724edc94f735d39eba25","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615e0226ccc01ffb91906936","I am paying attention. ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","610955bd4df5e68b4db4a586","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","614e6b246b462c71255a31b4","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","615dfbb483f8480303655714","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","6108ac76f73dfaf3c27db5b9","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","5be879272b86b00001b9d0e2","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","5e3afc013b12f0000a165d64","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","61419de45327bd23057bb5a6","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","60fc558e4bdd9f7e1193b310","I am paying attention ",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","61570cce3eb8aee57ef5d98d","I am paying attention",TRUE,"lender","cost","1b","low",2,"low","high","high","high",NA
+"1","6104bd4aacdd3af5be15c4d4","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","low","high",NA
+"1","6154f629ea84ccf09ac10f39","I am paying attention ",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","615e6b0e313a51491f30b1d2","I am paying attention",TRUE,"lender","cost","1b","high",2,"high","high","high","high",NA
+"1","6110cd3c8ac90be83cdcc6b4","I am paying attention ",TRUE,"lender","cost","1b","low",2,"high","high","high","high",NA
+"1","6159d59f2a349739f51417ad","I am paying attention",TRUE,"lender","cost","1b","low",2,"high","high","high","low",NA
+"1","5c3395d5861b5e00014e5a6b","I am paying attention ",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","6155b9c45f96867d9d9631fd","I am paying attention'",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","5e7ad79b4a5c600c89af2462","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","low","high",NA
+"1","615ddfac4254098aac0104f6","I am paying attention",TRUE,"lender","cost","1b","low",3,"low","low","high","low",NA
+"1","5e16a7c34b49a1c91ef46af6","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","low","high",NA
+"1","615dd00c1d45a039604c8f65","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615a0987c9051ab9211feaad","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","5f492192df390441adca14c6","I am paying attention ",TRUE,"lender","cost","1b","high",3,"low","high","high","high",NA
+"1","5f4158913bd5ca2e871d63f4","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","6150644c34ae04340c40ea7d","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","6158591c0aface73c971cd2b","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","60fd899739d76fd49477b9a4","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","614f7fa72284cc56c37bd6ed","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615eacec371e248c8cff26e3","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","low","high","high",NA
+"1","615d2f8eec57c5ed67cae1a7","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","59b7fd3862b30d0001b7a9a5","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615de27d2e7bba0828023d8d","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","60fe4903e5256605511c0df8","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","615dd734ba73139e525309ad","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615ef3a85979138892bca4e1","I am paying attention ",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","615cee2b2f844e72c397977a","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","low","low",NA
+"1","5743c964eb8ed0000ff798ac","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","low","high",NA
+"1","615e4fef92092a8206551387","i am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","5d52d9233d8e6b001b0dcd7f","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","615b27f7153b4a17b1fd9648","I am paying attention",TRUE,"lender","cost","1b","low",3,"low","high","high","high",NA
+"1","615c3e3b6d2de4da70ff983d","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","low","high","low",NA
+"1","5bcdce524f22df00010f79a8","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","low","low",NA
+"1","615efab192266b3e6edad353","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","614b631a8b5f1d167d747568","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","615ab8652a828a8debc1b58d","I am paying attention",TRUE,"lender","cost","1b","high",3,"low","high","low","high",NA
+"1","614de92b998a00bbe3126e46","I am paying attention.  I really dislike this game.",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615bf47f05e9e86a267e301e","I am paying attention.",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","6150e2b2d893e3c90a04e0b0","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","60204dc20bebf462370504bf","I am paying attention",TRUE,"lender","cost","1b","high",3,"low","low","high","low",NA
+"1","614b80cc52c625de51b20d95","i am paying attention i really dislike this game ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","61504a4fd671a4c0db39082c","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","6137724edc94f735d39eba25","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615e0226ccc01ffb91906936","I am paying attention. ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","610955bd4df5e68b4db4a586","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","614e6b246b462c71255a31b4","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","615dfbb483f8480303655714","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","6108ac76f73dfaf3c27db5b9","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","5be879272b86b00001b9d0e2","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","5e3afc013b12f0000a165d64","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","61419de45327bd23057bb5a6","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","60fc558e4bdd9f7e1193b310","I am paying attention ",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","61570cce3eb8aee57ef5d98d","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","low","high",NA
+"1","6104bd4aacdd3af5be15c4d4","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","6154f629ea84ccf09ac10f39","I am paying attention ",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","615e6b0e313a51491f30b1d2","I am paying attention",TRUE,"lender","cost","1b","high",3,"high","high","high","high",NA
+"1","6110cd3c8ac90be83cdcc6b4","I am paying attention ",TRUE,"lender","cost","1b","low",3,"high","high","high","high",NA
+"1","6159d59f2a349739f51417ad","I am paying attention",TRUE,"lender","cost","1b","low",3,"high","high","high","low",NA
