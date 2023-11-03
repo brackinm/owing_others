@@ -1,0 +1,153 @@
+# Indebtedness is motivated by welfare considerations
+# Maria Brackin & Hugo Mercier
+# RESULTS
+
+
+# DATA DESCRIPTION
+# Key variables:
+## cond - experimental condition:
+### Low = low benefit (to borrower)
+### High = high benefit (to borrower)
+
+## emotions at T1 - initial measurements for each emotion, on a 
+## scale of 1 (Not at all) to 7 (As much as possible):
+### Gratitude.T1 = gratitude at T1
+### Guilt1.T1 = guilt (to borrow) at T1
+### Guilt2.T1 = guilt (to not repay) at T1
+### Indebtedness.T1 = indebtedness at T1
+
+## change in emotions after finding out benefit, on a scale of
+## -3 (much less) to +3 (much more):
+### Gratitude = gratitude 
+### Guilt = guilt (to borrow) 
+### Guilt2 = guilt (to not repay) 
+### Indebtedness = indebtedness 
+
+
+
+# Preliminaries
+# Install required packages
+library(tidyverse)
+
+
+# STEP 1: Import Data
+# Set working directory to import data
+setwd("FILEPATH")
+
+# Import csv data file
+final.data <- read.csv("Study_2_cleandata.csv")
+
+
+
+# STEP 2: Plots
+
+# Reshape data
+plots.dataT1 <- final.data %>% gather(emotion, measure, "Gratitude.T1":"Indebtedness.T1") %>%
+  mutate(cond.emot = case_when (Cond == "High" & emotion == "Gratitude.T1" ~ "Gratitude", 
+                                Cond == "Low" & emotion == "Gratitude.T1" ~ "Gratitude ",
+                                Cond == "High" & emotion == "Guilt1.T1" ~ "Guilt1",
+                                Cond == "Low" & emotion == "Guilt1.T1" ~ "Guilt1 ",
+                                Cond == "High" & emotion == "Guilt2.T1" ~ "Guilt2",
+                                Cond == "Low" & emotion == "Guilt2.T1" ~ "Guilt2 ",
+                                Cond == "High" & emotion == "Indebtedness.T1" ~ "Indeb",
+                                Cond == "Low" & emotion == "Indebtedness.T1" ~ "Indeb "))
+
+plots.dataT2 <- final.data %>% gather(emotion, measure, "Gratitude":"Indebtedness") %>%
+  mutate(cond.emot = case_when (Cond == "High" & emotion == "Gratitude" ~ "Gratitude", 
+                                Cond == "Low" & emotion == "Gratitude" ~ "Gratitude ",
+                                Cond == "High" & emotion == "Guilt1" ~ "Guilt1",
+                                Cond == "Low" & emotion == "Guilt1" ~ "Guilt1 ",
+                                Cond == "High" & emotion == "Guilt2" ~ "Guilt2",
+                                Cond == "Low" & emotion == "Guilt2" ~ "Guilt2 ",
+                                Cond == "High" & emotion == "Indebtedness" ~ "Indeb",
+                                Cond == "Low" & emotion == "Indebtedness" ~ "Indeb "))
+
+# Plots
+# Emotions scores at T1
+T1 <- ggplot(plots.dataT1, aes(group = cond.emot, x = cond.emot, y = measure, fill = emotion)) +
+  geom_boxplot(alpha = 0.7) + labs(x="Emotions before benefit information") +
+  stat_summary(fun=mean, geom="point", shape=1, size=3, color="black", fill="black") + 
+  scale_fill_grey() +
+  theme_minimal() + 
+  theme(legend.position = "none")
+T1
+
+
+# Change in Emotions (after benefit information)
+Emotions <- ggplot(plots.dataT2, aes(group = cond.emot, x = cond.emot, y = measure, fill = Cond)) +
+  geom_boxplot(alpha = 0.7) + labs(x="Change in Emotions by benefit") +
+  ylim(-3, 3) +
+  stat_summary(fun=mean, geom="point", shape=1, size=3, color="black", fill="black") + 
+  scale_fill_grey() +
+  theme_minimal() 
+Emotions
+
+
+
+
+# STEP 3: Analysis
+
+### GUILT ###
+
+# H1: Guilt (to borrow) increases more when the borrower 
+# derives a low benefit than a high benefit
+
+t.test(x = final.data$Guilt1[final.data$Cond == "Low"], 
+       y = final.data$Guilt1[final.data$Cond == "High"], 
+       alternative = "greater")
+
+# SD 
+sd(final.data$Guilt1[final.data$Cond == "Low"])
+sd(final.data$Guilt1[final.data$Cond == "High"])
+
+
+# H2: Guilt (to not repay) increases more when the borrower 
+# derives a low benefit than a high benefit
+
+t.test(x = final.data$Guilt2[final.data$Cond == "Low"], 
+       y = final.data$Guilt2[final.data$Cond == "High"], 
+       alternative = "greater")
+
+# SD 
+sd(final.data$Guilt2[final.data$Cond == "Low"])
+sd(final.data$Guilt2[final.data$Cond == "High"])
+
+
+
+### GRATITUDE ###
+
+# H3: Gratitude increases more when the borrower 
+# derives a high benefit than a low benefit
+
+t.test(x = final.data$Gratitude[final.data$Cond == "High"], 
+       y = final.data$Gratitude[final.data$Cond == "Low"], 
+       alternative = "greater")
+
+# SD 
+sd(final.data$Gratitude[final.data$Cond == "High"])
+sd(final.data$Gratitude[final.data$Cond == "Low"])
+
+
+
+
+### INDEBTEDNESS ###
+
+# H4: Indebtedness increases when the borrower 
+# derives a lower benefit
+
+t.test(x = final.data$Indebtedness[final.data$Cond == "Low"], 
+       y = NULL, mu = 0, alternative = "greater")
+
+# SD 
+sd(final.data$Indebtedness[final.data$Cond == "Low"])
+
+
+# H5: Indebtedness increases when the borrower 
+# derives a higher benefit
+
+t.test(x = final.data$Indebtedness[final.data$Cond == "High"], 
+       y = NULL, mu = 0, alternative = "greater")
+
+# SD 
+sd(final.data$Indebtedness[final.data$Cond == "High"])
+
