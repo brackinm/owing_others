@@ -43,14 +43,14 @@ final.data <- read.csv("Study_1R_cleandata.csv")
 # Compute individual participants' overall score (0-3) 
 # for each emotion
 
-final.data <- final.data %>% group_by(ID) %>% mutate(gr.sum = sum(gratitude == "high")) 
-final.data <- final.data %>% group_by(ID) %>% mutate(i.sum = sum(indebtedness == "high"))
-final.data <- final.data %>% group_by(ID) %>% mutate(gu.sum = sum(guilt == "high"))
-final.data <- final.data %>% group_by(ID) %>% mutate(sh.sum = sum(shame == "high"))
-final.data <- final.data %>% group_by(ID) %>% mutate(a.sum = sum(anger == "high"))
-final.data <- final.data %>% group_by(ID) %>% mutate(r.sum = sum(repayment == "high"))
+data <- data %>% group_by(ID) %>% mutate(gr.sum = sum(gratitude == "high")) 
+data <- data %>% group_by(ID) %>% mutate(i.sum = sum(indebtedness == "high"))
+data <- data %>% group_by(ID) %>% mutate(gu.sum = sum(guilt == "high"))
+data <- data %>% group_by(ID) %>% mutate(sh.sum = sum(shame == "high"))
+data <- data %>% group_by(ID) %>% mutate(a.sum = sum(anger == "high"))
+data <- data %>% group_by(ID) %>% mutate(r.sum = sum(repayment == "high"))
 
-final.data <- final.data %>% 
+final.data <- data %>% 
   mutate(gratitude = ifelse(gr.sum >= 2, "high", "low")) %>%
   mutate(indebtedness = ifelse(i.sum >= 2, "high", "low")) %>%
   mutate(guilt = ifelse(gu.sum >= 2, "high", "low")) %>%
@@ -414,7 +414,7 @@ binom.test(66,68,0.5,alternative = "greater")
 # alignment between guilt, gratitude, indebtedness and 
 # repayment intention.
 
-response.data <- read.csv("Debt_Study_1_replication_FINAL.csv") %>%
+response.data <- data %>%
   select(ID, study, indebtedness, guilt, gratitude, repayment)
 
 data.matches <- response.data %>%
